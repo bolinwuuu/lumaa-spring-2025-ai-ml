@@ -8,7 +8,7 @@
 From Kaggle dataset: IMDB Movies Dataset, Top 1000 Movies by IMDB Rating
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
-The dataset contains 1000 data. 500 samples were randomly sampled and stored in data/movie_500.csv used for recommendation.
+The dataset contains 1000 data. 500 samples were randomly sampled and stored in `data/movie_500.csv` used for recommendation.
 
 ## Setup
 Docker is used. If not installed, see https://docs.docker.com/engine/install/. 
